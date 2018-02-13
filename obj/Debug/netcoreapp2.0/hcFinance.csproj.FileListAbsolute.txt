@@ -1,0 +1,10 @@
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\bin\Debug\netcoreapp2.0\hcFinance.deps.json
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\bin\Debug\netcoreapp2.0\hcFinance.runtimeconfig.json
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\bin\Debug\netcoreapp2.0\hcFinance.runtimeconfig.dev.json
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\bin\Debug\netcoreapp2.0\hcFinance.dll
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\bin\Debug\netcoreapp2.0\hcFinance.pdb
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\obj\Debug\netcoreapp2.0\hcFinance.csproj.CoreCompileInputs.cache
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\obj\Debug\netcoreapp2.0\hcFinance.AssemblyInfoInputs.cache
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\obj\Debug\netcoreapp2.0\hcFinance.AssemblyInfo.cs
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\obj\Debug\netcoreapp2.0\hcFinance.dll
+c:\Users\ccuts\Documents\CSharp_Scripts\hcFinance\obj\Debug\netcoreapp2.0\hcFinance.pdb
